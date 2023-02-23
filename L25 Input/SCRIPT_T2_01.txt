@@ -1,0 +1,72 @@
+####################
+#                  #
+# Copiar todo esto #
+#                  #
+####################
+# Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
+
+# LABORATORIO - Tidy data -datos ordenados- PARTE 1,2 y 3.
+
+# Objetivo: Introducción práctica a los datos ordenados (o tidy data) y a las herramientas que provee el paquete tidyr.
+# --------------------------------------------------------------------------------------------------------------------
+# En este ejercicio vamos a:
+# 1. Cargar datos (tibbles)
+# 2. Converir nuestros tiblles en dataframes (para su exportación)
+# 3. Exportar dataframes originales
+# 4. Pivotar tabla 4a
+# 5. Exportar resutltado (TABLA PIVOTANTE)
+# 6. Separar y unir tablas
+
+
+
+#############################################
+#LABORATORIO: Tidy data (datos ordenados) 1 #
+#############################################
+#Prerrequisitos
+#instalar paquete tidyverse
+#install.packages("tidyverse")
+
+
+#instalar paquete de datos
+
+#install.packages("remotes")
+#remotes::install_github("cienciadedatos/datos")
+#install.packages("datos")
+
+#Cargar paquete tidyverse
+library(tidyverse)
+
+#Cargar paquete de datos
+library(datos)
+
+
+#tabla 1 hasta tabla 4b
+#ver datos como tibble 
+
+
+
+
+
+#ver datos como dataframe 
+
+
+
+
+#exportar los dataframes originales
+
+
+
+
+
+vignette("tibble")
+#explicación de tibble
+
+
+
+
+# Ordenar datos con la tabla4a (PIVOTAR)
+
+
+
+
+# Exportar resultado: tabla ordenada
